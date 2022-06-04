@@ -3,7 +3,7 @@
     "databaseName": "database",
     "imagesTableName": "images",
     "codeLength": 5,
-    "incorrectCodeRedirectURL": "https://anonymous.up.railway.app/",
+    "incorrectCodeRedirectURL": "https://anonymousimageupload-production.up.railway.app/",
     "imageSizeLimit": "5mb",
     "rateLimitTimeMilliseconds": 600000,
     "requestsPerTime": 10
